@@ -14,7 +14,7 @@ Things to Notice in this scenario:
 
 -There is no market mechanics like short covering that influence prices.
 
--From one day to another, prices move randomly between -200 and 200.
+-From one day to another, prices move randomly between x1 and x2 ( in this case between -200 and 200).
 
 ![Image Alt Text](images/6.png)
 
