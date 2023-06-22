@@ -64,3 +64,9 @@ if the market has a downwards pressure on price
 the price moves in a constant way always nearing a linear equation with a negative slope.
 
 ![Image Alt Text](images/5.png)
+
+## conclution on price direction and risk to one position bias
+
+if you are in the direction of the market with a 1 to x risk, your profits go up.
+
+if you are not in the direction of the market with a 1 to x risk your profits go negative.
