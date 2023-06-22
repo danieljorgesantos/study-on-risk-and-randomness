@@ -10,6 +10,10 @@ Things to Notice in this scenario:
 
 -There is no trading psicology, and this means that, past prices do not influence in any way future prices.
 
+-There are no external events that influence prices.
+
+-There is no market mechanics like short covering that influence prices.
+
 -From one day to another, prices move randomly between -200 and 200.
 
 ![Image Alt Text](images/1.png)
