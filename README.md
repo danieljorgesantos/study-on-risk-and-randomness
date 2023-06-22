@@ -37,7 +37,7 @@ Out Agent can only interact with the market in the following way:
 
 - Only enters positions in the long direction ( the agent earns if the market goes up and hits the TP)
 
-- Agent actions do not influence the market
+- Agent actions do not influence the market price
 
 ## 1 to 3 risk reward ratio
 
