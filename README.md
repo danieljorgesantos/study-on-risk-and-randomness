@@ -65,7 +65,7 @@ the price moves in a constant way always nearing a linear equation with a negati
 
 ![Image Alt Text](images/5.png)
 
-## conclution on price direction and risk to one position bias
+## conclusion on price direction and risk to one position bias
 
 if you are in the direction of the market with a 1 to x risk, your profits go up.
 
