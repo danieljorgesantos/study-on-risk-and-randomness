@@ -41,6 +41,8 @@ Out Agent can only interact with the market in the following way:
 
 - Agent can take an action everytime frame, only if, the action he took before is already concluded, for example price hit the stoploss or takeprofit. 
 
+- Starting Capital is 1000 Units.
+
 ## 1 to 3 risk reward ratio
 
 1 to 3 risk to reward ratio
