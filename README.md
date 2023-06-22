@@ -47,12 +47,12 @@ Things to Notice in our agent:
 
 1. does a 1 to 20 risk to reward ration became counter productive?
 
-2. the market moves in a constant way always nearing a center.
+2. the price moves in a constant way always nearing a center with a slope of 0.
 
 ## if the market has a downwards pressure on price
 
 if the market has a downwards pressure on price
 
-the market moves in a constant way always nearing a linear equation with a negative slope.
+the price moves in a constant way always nearing a linear equation with a negative slope.
 
 ![Image Alt Text](images/4.png)
