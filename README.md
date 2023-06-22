@@ -36,3 +36,9 @@ Things to Notice in our agent:
 1 to 3 risk to reward ratio
 
 ![Image Alt Text](images/2.png)
+
+## 1 to 3 risk reward ratio and 1 to 4 risk reward ratio 
+
+1 to 3 risk reward ratio and 1 to 4 risk reward ratio 
+
+![Image Alt Text](images/3.png)
