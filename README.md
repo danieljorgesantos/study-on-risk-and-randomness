@@ -27,6 +27,16 @@ Charts for random prices:
 
 ## Our Agent
 
+Out Agent can only interact with the market in the following way:
+
+- Choose a takeprofit (TP)
+
+- Choose a stoploss (SL)
+
+- The amount is always the same
+
+- Only enters positions in the long direction ( the agent earns if the market goes up and hits the TP)
+
 Our agent can only choose its stoploss, and take profit for the position.
 
 Things to Notice in our agent:
