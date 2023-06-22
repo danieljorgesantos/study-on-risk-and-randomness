@@ -70,3 +70,6 @@ the price moves in a constant way always nearing a linear equation with a negati
 if you are in the direction of the market with a 1 to x risk, your profits go up.
 
 if you are not in the direction of the market with a 1 to x risk your profits go negative.
+
+if the market is just random with no direction, a 1 to x risk will give you sure profits in the long run,
+and this can be measured mathematicly.
