@@ -33,7 +33,7 @@ Out Agent can only interact with the market in the following way:
 
 - Choose a stoploss (SL)
 
-- The amount is always the same
+- The amount invested is always the same
 
 - Only enters positions in the long direction ( the agent earns if the market goes up and hits the TP)
 
