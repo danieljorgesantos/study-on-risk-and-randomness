@@ -42,3 +42,15 @@ Things to Notice in our agent:
 1 to 3 risk reward ratio and 1 to 4 risk reward ratio 
 
 ![Image Alt Text](images/3.png)
+
+## things to notice
+
+1. does a 1 to 20 risk to reward ration became counter productive?
+
+2. the market moves in a constant way always nearing a center.
+
+## if the market has a downwards pressure on price
+
+if the market has a downwards pressure on price
+
+![Image Alt Text](images/4.png)
