@@ -11,3 +11,15 @@ Things to Notice in this scenario:
 -There is no trading psicology, and this means that, past prices do not influence in any way future prices.
 
 -From one day to another, prices move randomly between -200 and 200.
+
+## Our Agent
+
+Our agent can only choose its stoploss, and take profit for the position.
+
+Things to Notice in our agent:
+
+- Agents actions do not have an influence in the price for that day or following days.
+
+- the agent can only buy, and that means that if the price goes up, he earns money when it hits the take profit.
+
+- the agent can only buy, and that means that if the price goes down, he looses money when it hits the stoploss.  
