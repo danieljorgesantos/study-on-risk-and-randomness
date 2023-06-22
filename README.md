@@ -30,3 +30,9 @@ Things to Notice in our agent:
 - the agent can only buy, and that means that if the price goes up, he earns money when it hits the take profit.
 
 - the agent can only buy, and that means that if the price goes down, he looses money when it hits the stoploss.  
+
+## 1 to 3 risk reward ratio
+
+1 to 3 risk to reward ratio
+
+![Image Alt Text](images/2.png)
