@@ -43,7 +43,13 @@ Out Agent can only interact with the market in the following way:
 
 - Starting Capital is 1000 Units.
 
-## 1 to 3 risk reward ratio
+## Definition for risk reward ratio
+
+The risk-reward ratio, also known as the risk-to-reward ratio, is a concept used in investing and trading to evaluate the potential return versus the potential loss of a trade or investment. It is a ratio that compares the amount of risk taken on a particular trade or investment to the potential reward or profit.
+
+The risk-reward ratio is typically expressed as a ratio or a fraction, such as 1:1, 1:2, or 1:3, where the first number represents the potential risk, and the second number represents the potential reward.
+
+## 1 to 2 risk reward ratio
 
 1 to 3 risk to reward ratio
 
