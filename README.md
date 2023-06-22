@@ -56,3 +56,11 @@ if the market has a downwards pressure on price
 the price moves in a constant way always nearing a linear equation with a negative slope.
 
 ![Image Alt Text](images/4.png)
+
+## if the market has a upwards pressure on price (the same vector of direction of the position)
+
+if the market has a downwards pressure on price
+
+the price moves in a constant way always nearing a linear equation with a negative slope.
+
+![Image Alt Text](images/5.png)
