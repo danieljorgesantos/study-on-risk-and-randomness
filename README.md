@@ -4,7 +4,7 @@ A comprehensive examination of the interplay between risk and randomness in vari
 
 ## Our scenario
 
-Lets imagine we have a world where prices are completely random in a market, and that these prices flauctuate between -200 and 200, or x1 and x2. 
+Lets imagine we have a world where prices are completely random in a market, and that these prices flauctuate between -200 and 200 per timeframe, or between x1 and x2 per timeframe. 
 
 Things to Notice in this scenario:
 
@@ -16,7 +16,7 @@ Things to Notice in this scenario:
 
 -From one day to another, prices move randomly between -200 and 200.
 
-![Image Alt Text](images/1.png)
+![Image Alt Text](images/6.png)
 
 
 ## Our Agent
