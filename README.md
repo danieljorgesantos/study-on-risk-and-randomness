@@ -12,6 +12,9 @@ Things to Notice in this scenario:
 
 -From one day to another, prices move randomly between -200 and 200.
 
+![Image Alt Text](images/transferir1.png)
+
+
 ## Our Agent
 
 Our agent can only choose its stoploss, and take profit for the position.
