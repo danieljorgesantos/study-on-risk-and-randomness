@@ -53,4 +53,6 @@ Things to Notice in our agent:
 
 if the market has a downwards pressure on price
 
+the market moves in a constant way always nearing a linear equation with a negative slope.
+
 ![Image Alt Text](images/4.png)
