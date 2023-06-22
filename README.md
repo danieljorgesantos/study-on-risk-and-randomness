@@ -37,16 +37,6 @@ Out Agent can only interact with the market in the following way:
 
 - Only enters positions in the long direction ( the agent earns if the market goes up and hits the TP)
 
-Our agent can only choose its stoploss, and take profit for the position.
-
-Things to Notice in our agent:
-
-- Agents actions do not have an influence in the price for that day or following days.
-
-- the agent can only buy, and that means that if the price goes up, he earns money when it hits the take profit.
-
-- the agent can only buy, and that means that if the price goes down, he looses money when it hits the stoploss.  
-
 ## 1 to 3 risk reward ratio
 
 1 to 3 risk to reward ratio
