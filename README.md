@@ -16,7 +16,7 @@ Things to Notice in this scenario:
 
 -From one timeframe to another, prices move randomly between x1 and x2 ( in this case between -200 and 200).
 
-![Image Alt Text](images/6.png)
+![Image Alt Text](images/7.png)
 
 
 ## Our Agent
