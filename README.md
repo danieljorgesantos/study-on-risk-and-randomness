@@ -49,9 +49,9 @@ The risk-reward ratio, also known as the risk-to-reward ratio, is a concept used
 
 The risk-reward ratio is typically expressed as a ratio or a fraction, such as 1:1, 1:2, or 1:3, where the first number represents the potential risk, and the second number represents the potential reward.
 
-## 1 to 2 risk reward ratio
+## 1 to 2 Risk to Reward ratio
 
-1 to 3 risk to reward ratio
+In this section, we will discuss the use of a 1:2 risk-to-reward ratio by the agent. A 1:2 risk-to-reward ratio means that the agent aims to achieve a potential reward that is twice the size of the potential risk taken on a trade or investment.
 
 ![Image Alt Text](images/2.png)
 
