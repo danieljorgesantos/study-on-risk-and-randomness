@@ -12,7 +12,7 @@ Things to Notice in this scenario:
 
 -From one day to another, prices move randomly between -200 and 200.
 
-![Image Alt Text](images/transferir (1).png)
+![Image Alt Text](image_folder/1.png)
 
 
 ## Our Agent
