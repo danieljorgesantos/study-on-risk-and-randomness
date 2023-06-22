@@ -5,3 +5,7 @@ A comprehensive examination of the interplay between risk and randomness in vari
 ## Our scenario
 
 Lets imagine we have a world where prices are completely random in a market, and that these prices flauctuate between -200 and 200, or x1 and x2. 
+
+Things to Notice in this scenario:
+-There is no trading psicology, and this means that, past prices do not influence in any way future prices.
+-From one day to another, prices move randomly between -200 and 200.
